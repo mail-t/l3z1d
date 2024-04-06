@@ -1,0 +1,25 @@
+.small-box {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin-right: -4px;
+}
+
+.bg-aqua {
+  background-color: aqua;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-red {
+  background-color: red;
+}
+.big-box {
+  display: block;
+  width: 600px;
+  height: 200px;
+  background-color: yellow;
+  margin-top: -4px;
+}
